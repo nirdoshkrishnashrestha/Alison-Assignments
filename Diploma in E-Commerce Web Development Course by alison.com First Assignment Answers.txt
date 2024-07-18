@@ -1,0 +1,83 @@
+Course Name: Diploma in E-Commerce Web Development
+Assignment: First Assignment
+Answers
+
+TRUE OR FALSE: PHP code has to be written for each product modal?
+TRUE
+
+
+True or False - Multiple static products can be added to a site, by copying the code and making changes to names and file paths.
+ANS: TRUE
+
+Is it possible to add images in the Atom editor?
+ANS: YES
+
+FILL-IN-THE-BLANK: In order to make the product modals dynamic, _________ must be referenced in the PHP code, that link to the database. Choose one:
+
+variables
+CSS
+product details
+
+ANS: variables
+
+Fill in the blank - Code is added to the init.php file, to initialize a start session. This starts or resumes a user session, based on a session __________.
+ANS: identifier
+
+Which standard format is used for the sanitize function?
+ANS: UTF-8
+
+
+FILL-IN-THE-BLANK: Instead of writing static product references for each modal, dynamic code is used, that refers to the ________.
+ANS: database
+
+
+TRUE OR FALSE: A div id tag must be included for each image in a .php file
+ANS: TRUE
+
+
+What type of code is used to format the website footer?
+CSS
+
+
+Which software was used to create the database for the 'Red Stone Shop' website?
+phpMyAdmin
+
+Which characters are used first, when inserting comments in .php files? Choose one:
+// insert comment here
+
+
+TRUE OR FALSE: Instead of having a PHP file for each product, one PHP file is used to reference to the database.
+True
+
+
+Fill in the blank - In this course the My Cart ________ element, was updated in the main.css file, i.e. a dark red background with white text.
+Bootstrap
+
+
+What is the name of the code editor that is used in this course? Choose one:
+Atom
+
+
+In which file is the code for the navigation bar written? Choose one:
+index.php
+
+
+Which of the following are folders found in Bootstrap? Choose three.
+Use all except Xampp folder
+
+
+FILL-IN-THE-BLANK: The following code is used to update the _____, each time it is selected to view different products.
+MODAL
+
+
+FILL-IN-THE-BLANK: The purpose of this course is to create an e-commerce site from scratch, using PHP and the _________ framework.
+Bootstrap
+
+
+TRUE OR FALSE: To add more products to the site, you can copy the code that was used for the first product and change the names.
+TRUE
+
+<?php echo ob_get_clean(); ?> code is used to update the _____, each time it is selected to view different products.
+modal
+
+
